@@ -1,0 +1,84 @@
+
+.left
+{
+	background-color: #c2c2a3;
+	height: 1200px;
+	width: 300px;
+	float: left;
+	margin: 10px;
+}
+.right
+{
+	background-color: #eee;
+	height: 1200px;
+	width: 930px;
+	float: left;
+	margin: 10px;
+}
+.image
+{
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.name
+{
+	font-family: "Arial	";
+	font-size: 40px;
+}
+.info
+{
+	margin-top: 10px;
+	margin-left: 15px;
+}
+.objective
+{
+	margin-top: 30px;
+	background-color: #99c2ff;
+	margin-left: -10px;
+	font-size: 30px;
+	padding-left: 20px;
+	max-width: 550px;
+	min-height: 40px;
+	border-radius: 10px;
+}	
+.skills
+{
+	margin-top: 30px;
+	background-color: #ffb3d1;
+	margin-left: -10px;
+	font-size: 30px;
+	padding-left: 20px;
+	max-width: 550px;
+	min-height: 40px;
+	border-radius: 10px;
+}
+.edbg
+{
+	margin-top: 30px;
+	background-color: #ffe680;
+	margin-left: -10px;
+	font-size: 30px;
+	padding-left: 20px;
+	max-width: 550px;
+	min-height: 40px;
+	border-radius: 10px;
+}
+.charef
+{
+	margin-top: 30px;
+	background-color: #adebad;
+	margin-left: -10px;
+	font-size: 30px;
+	padding-left: 20px;
+	max-width: 550px;
+	min-height: 40px;
+	border-radius: 10px;
+}
+.cont
+{
+	margin-top: 20px;
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+
